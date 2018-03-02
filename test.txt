@@ -1,3 +1,4 @@
 text file
 add a line
-test home git 
+test home git
+000000 
