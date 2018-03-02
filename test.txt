@@ -1,2 +1,3 @@
 text file
 add a line
+test home git 
